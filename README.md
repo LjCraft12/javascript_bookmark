@@ -12,4 +12,4 @@
 
 ## User should not be able to:
 * User should not be able to submit a blank form.
-* User sholuld not be able to save a improper url string.
+* User should not be able to save a improper url string.
